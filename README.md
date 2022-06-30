@@ -1,2 +1,2 @@
 # SAS 
-HWs and exams from 'Introduction to SAS' (MATH 441)
+Coursework in SAS(MATH 338)
